@@ -46,6 +46,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Aufgabe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aufgabe3.executor&quot;: &quot;Run&quot;,
     &quot;Python.intro.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -65,8 +67,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -81,7 +83,15 @@
       <workItem from="1712743151268" duration="1542000" />
       <workItem from="1713346501127" duration="2066000" />
       <workItem from="1713951176053" duration="4393000" />
-      <workItem from="1715161189098" duration="654000" />
+      <workItem from="1715161189098" duration="3794000" />
+      <workItem from="1715679412191" duration="673000" />
+      <workItem from="1715710947268" duration="57000" />
+      <workItem from="1715711119741" duration="275000" />
+      <workItem from="1715714110342" duration="1805000" />
+      <workItem from="1715766175701" duration="2248000" />
+      <workItem from="1722954812065" duration="1161000" />
+      <workItem from="1723209243965" duration="1084000" />
+      <workItem from="1723758864141" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <option name="closed" value="true" />
@@ -91,7 +101,39 @@
       <option name="project" value="LOCAL" />
       <updated>1713956573096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="something">
+      <option name="closed" value="true" />
+      <created>1715161899876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715161899876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="something">
+      <option name="closed" value="true" />
+      <created>1715161909550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715161909550</updated>
+    </task>
+    <task id="LOCAL-00004" summary="something">
+      <option name="closed" value="true" />
+      <created>1715164674806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715164674806</updated>
+    </task>
+    <task id="LOCAL-00005" summary="something">
+      <option name="closed" value="true" />
+      <created>1715715313389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715715313389</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +144,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="something" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$Aufgabe3.coverage" NAME="Aufgabe3 Coverage Results" MODIFIED="1715715282254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$aufgabe3.coverage" NAME="aufgabe3 Coverage Results" MODIFIED="1715161861503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$intro.coverage" NAME="intro Coverage Results" MODIFIED="1713953597442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
